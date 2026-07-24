@@ -122,7 +122,7 @@ function Hero() {
         <a className="button primary" href={personal.github} target="_blank" rel="noreferrer">
           View GitHub
         </a>
-        <a className="button secondary" href={personal.resume} target="_blank" rel="noreferrer">
+        <a className="button secondary" href={personal.resume} download="Anirudh_Battu_Resume.pdf">
           Download Resume
         </a>
       </div>
