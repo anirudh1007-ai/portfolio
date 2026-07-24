@@ -64,7 +64,7 @@ const education = [
     school: 'Anurag University',
     degree: 'B.Tech in Computer Science and Engineering',
     year: '2023 – 2027',
-    score: 'CGPA: 7.00 / 10',
+    score: 'CGPA: 6.89 / 10',
     location: 'Hyderabad, Telangana',
   },
   {
